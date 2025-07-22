@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Sensor
+  - Background NPC
+  - Dialogue Box
+  - Alert Icon
+  - Tool Tip
+  - Player Manager
+  - Map
+  - Icon1
+  - Icon2
+  - NPC Manager
+  - Key
+  - Music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - NPC
+  - Player
+  - Barrier
+  - Object
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Top
+    uniqueID: 2986892617
+    locked: 0
+  - name: Middle
+    uniqueID: 469253287
+    locked: 0
+  - name: Bottom
+    uniqueID: 1309188905
+    locked: 0
+  m_RenderingLayers:
+  - Default
