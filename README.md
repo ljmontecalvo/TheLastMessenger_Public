@@ -5,7 +5,7 @@ Developed by Landon Montecalvo for the Future Business Leaders of America Rhode 
 ## Art
 All game art was created by CAINOS, with the exception of the following assets, which were developed by Landon Montecalvo:
 
-## Game Map
+- Game Map
 - UI Components (excluding paper icon)
 - Fonts
 - Sounds
