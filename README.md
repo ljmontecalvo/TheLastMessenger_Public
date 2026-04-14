@@ -1,28 +1,23 @@
-# The Last Messenger
+#The Last Messenger
+Developed by Landon Montecalvo for the Future Business Leaders of America Rhode Island State Leadership Conference in the Computer Game & Simulation category (awarded 1st place at the state level).
 
-Developed by Landon Montecalvo
+#Credits
+##Art
+All game art was created by CAINOS, with the exception of the following assets, which were developed by Landon Montecalvo:
 
-## Credits
+##Game Map
+UI Components (excluding paper icon)
+Fonts
+Sounds
 
-### Art
+##Sound
 
-All game art exluding the following are created by CAINOS view their assets in the [Unit Asset Store](https://assetstore.unity.com/publishers/40001?srsltid=AfmBOopsC6lkVqikA30kQRQsZcUbJuJGPqd-PfPRAXZgxFSt_mwinpbM).
-
-* Game Map
-* UI Components (exluding paper icon)
-* Fonts
-* Sounds
-
-### Sound
-
-Music I use: Bensound.com
-
+Platform: Bensound.com
 Artist: TURNIQUE
-
 Title: Echo of Sadness
 
-## Information
+
+#Project Information
 
 Protected art has been removed from the Assets folder.
-
-All code/scripts developed by Landon Montecalvo are found in Assets/Assets/Scripts, any other C# scripts were not developed by Landon Montecalvo.
+All scripts developed by Landon Montecalvo are located in Assets/Assets/Scripts. Any other C# scripts were not developed by Landon Montecalvo.
